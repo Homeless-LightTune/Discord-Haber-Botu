@@ -1,0 +1,16 @@
+{
+  "name": "zilch-haber-botu",
+  "version": "1.0.0",
+  "description": "Zilch discord sunucusu için yapılmış özel bot. Auther: LightTune",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LightTune",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "discord.js": "^14.15.3",
+    "node-cron": "^3.0.3"
+  }
+}
